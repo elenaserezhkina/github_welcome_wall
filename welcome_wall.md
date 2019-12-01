@@ -141,3 +141,7 @@ The cost of inaction is more expensive than making a mistake. - ohhye
 <br>— Rodolfo Costa 
 {: .text-center}
 <br>
+<br>
+“People rarely succeed unless they have fun in what they are doing.”
+Dale Carnegie
+<br>
